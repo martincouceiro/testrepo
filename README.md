@@ -1,5 +1,12 @@
-# testrepo
+# IBM Data Science Professional Certificate
 
-## Editing the file
+#### Data Collection API
+#### Data Collection with Web Scraping
+#### EDA
+#### EDA with SQL
+#### EDA with Data Visualization
+#### Interactive Visual Analytics with Folium
+#### Plotly Dashboard (main.py)
+#### Machine Learning Prediction (Classification)
 
-It's a markdown file in this repository.
+
