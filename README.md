@@ -2,20 +2,20 @@
 
 ## Applied Data Science Capstone
 
-### Data Collection API
+#### Data Collection API
 
-### Data Collection with Web Scraping
+#### Data Collection with Web Scraping
 
-### EDA
+#### EDA
 
-### EDA with SQL
+#### EDA with SQL
 
-### EDA with Data Visualization 
+#### EDA with Data Visualization 
 
-### Interactive Visual Analytics with Folium
+#### Interactive Visual Analytics with Folium
 
-### Plotly Dashboard (main.py)
+#### Plotly Dashboard (main.py)
 
-### Machine Learning Prediction (Classification)
+#### Machine Learning Prediction (Classification)
 
 
